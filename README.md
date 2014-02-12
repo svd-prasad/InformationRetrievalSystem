@@ -1,0 +1,1 @@
+This repo contains implementation of Information Retrieval (IR) system.
